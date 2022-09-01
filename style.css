@@ -5,7 +5,7 @@
 }
 
 
-body, input, button, select, textarea {
+body, input, select, textarea {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -206,27 +206,38 @@ footer {
 
     display: flex;
     flex-direction: column;
-    padding: 40px 65px; 
+
+    padding: 40px 64px; 
+
+    margin-bottom: 100px;
+
+    border-top: 1px solid #D6D6D6;
+    border-radius: 0 0 8px 8px;
     
 }
 
-footer input {
+footer .button {
 
-    padding: 15px 40px;
+    height: 56px;
     background: #04D361;
+    border: 0;
     border-radius: 8px;
 
     color: #E6E6F0;
 
     font-family: 'Archivo';
+
+    font-weight: 600;
     font-size: 16px;
     line-height: 26px;
 
-    border: none;
     transition: 400ms;
 }
 
-footer input:hover {
+footer .button:hover {
     background: #128244;
-    
+}
+
+input:invalid {
+    border: 2px solid rgb(196, 63, 63);
 }
