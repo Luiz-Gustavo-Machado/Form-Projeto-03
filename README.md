@@ -3,7 +3,7 @@
 
 ## Aprendizados
 
-Formulário proposto no stage 3 do Explore Rocketseat, o desafio era criar este form utilizando HTML e CSS puros a partir de um design no Figma.
+> Formulário proposto no stage 3 do Explore Rocketseat, o desafio era criar este form utilizando HTML e CSS puros a partir de um design no Figma.
 Foi implementando Select, Checkbox, Textarea e validando com o atributo "equired" e limitando os caracteres com o atributo "minlength".
 
 
@@ -13,9 +13,7 @@ Desafio proposto no programa Explorer da Rocketseat, a proposta era desenvolver 
 
 **Front-end:** HTML & CSS
 
-## Deploy
-
-<a href="https://formularioavancado.netlify.app/" target="_blank">Formulário Avançado</a>
+### Deploy: <a href="https://formularioavancado.netlify.app/" target="_blank">Formulário Avançado</a>
 
 ## Imagem de referência
  
