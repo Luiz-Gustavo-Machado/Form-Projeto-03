@@ -23,7 +23,7 @@ Você pode visualizar o layout do projeto através 🔗 [desse link](https://for
 
 ### 🚀 Tecnologias
 
-> Esse projeto desenvolvido proposto no stage 3 do Explore da Rocketseat com as seguintes tecnologias: 
+> Esse projeto desenvolvido com as seguintes tecnologias: 
 
 - HTML
 - CSS
